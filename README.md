@@ -7,7 +7,7 @@ Copyright (c) 2022 - present
 <br />
 
 - `Backend`: Folder Structure
-- `Deployment`: **Docker**, Gunicorn / Nginx, `HEROKU`
+- `Deployment`: Local
 
 <br />
 
